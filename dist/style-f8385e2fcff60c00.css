@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+div {
+    margin-top:35px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Cubano', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Cubano', sans-serif;
+}
+
+button {
+    background-color: white;
+    border: black;
+    border-width: 8px;
+    color: #555;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Cubano', sans-serif;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20%;
+}
